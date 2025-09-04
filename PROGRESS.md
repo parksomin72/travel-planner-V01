@@ -15,3 +15,4 @@
 - Implement itinerary builder per trip
 - Add user authentication (register & login)
 - Start basic styling and responsive layout
+

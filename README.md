@@ -62,4 +62,3 @@ travel-planner/
 	```
 - Now the app should be running at:
 		👉 http://localhost:5000/
-
