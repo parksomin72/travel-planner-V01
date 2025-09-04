@@ -47,7 +47,7 @@ travel-planner/
 2. Install dependencies:
 	```bash
 		npm install
-```
+	```
 3. Setup environment variables:
 
 - Create a .env file in the root directory:
@@ -55,11 +55,11 @@ travel-planner/
 		PORT=5000
 		DATABASE_URL=database_connection_string
 		JWT_SECRET=secret_key
-```
+	```
 4. Run the app:
 	```bash
 		npm run dev
-```
+	```
 - Now the app should be running at:
 		👉 http://localhost:5000/
 
