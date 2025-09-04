@@ -43,7 +43,7 @@ travel-planner/
 	```bash
 		git clone https://github.com/your-username/travel-planner.git
 		cd travel-planner
-```
+	```
 2. Install dependencies:
 	```bash
 		npm install
